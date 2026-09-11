@@ -1,0 +1,13 @@
+# ROS 2 packages such as rclpy/std_msgs are installed via apt/rosdep.
+
+numpy>=1.23,<2.0
+opencv-python>=4.8
+Pillow>=9.0
+torch>=2.0
+ultralytics>=8.0
+paddlepaddle>=2.5
+PaddleOCR>=2.7
+websocket-client>=1.6
+
+# Jetson/CUDA users should replace torch and paddlepaddle with platform-specific builds.
+

@@ -1,0 +1,4 @@
+ID: 07
+Time: 2026-02-03 15:32:52
+Max Chickens: 8
+Max Eggs: 6
